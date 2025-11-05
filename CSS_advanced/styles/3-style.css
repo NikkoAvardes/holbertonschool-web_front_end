@@ -1,0 +1,10 @@
+@import url("2-style.css");
+
+:root {
+	--color-primary: #d73953;
+	--color-black: #090909;
+	--color-white: #ffffff;
+	--color-light-gray: #f3f3f3;
+	--color-dark-gray: #353535;
+	--color-text: var(--color-black);
+}

@@ -1,11 +1,11 @@
 @import url("styles/1-style.css");
 
 body {
-	color: #161616;
+	color: var(--color-black);
 }
 
 a {
-	color: #161616;
+	color: var(--color-black);
 }
 
 .visually-hidden {
@@ -13,9 +13,9 @@ a {
 }
 
 .card-category {
-	color: #D73953;
+	color: var(--color-primary);
 }
-
+	
 .section-tagline {
-	color: #D73953;
+	color: var(--color-primary);
 }
