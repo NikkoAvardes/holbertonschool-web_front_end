@@ -1,11 +1,11 @@
 @import url("styles/1-style.css");
 
 body {
-	color: var(--color-black);
+	color: var(--color-text);
 }
 
 a {
-	color: var(--color-black);
+	color: var(--color-text);
 }
 
 .visually-hidden {
