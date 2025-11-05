@@ -7,9 +7,4 @@
 	--color-light-grey: #f3f3f3;
 	--color-dark-grey: #353535;
 	--text-color: var(--color-black);
-
-	/* Backwards-compatible aliases (some files reference these) */
-	--color-text: var(--text-color);
-	--color-light-grey: var(--color-light-grey);
-	--color-dark-grey: var(--color-dark-grey);
 }
