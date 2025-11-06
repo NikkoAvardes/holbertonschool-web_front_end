@@ -268,7 +268,7 @@ a:active {
 	float: right;
 }
 
-.card-services card-title {
+.card-services .card-title {
 	margin: 0;
 }
 
