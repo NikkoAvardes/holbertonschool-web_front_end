@@ -293,6 +293,12 @@ a:active {
     color: var(--nav-item-link-hover);
 }
 
+ul.row::after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
 ul.row {
     margin: 0;
     padding: 0;
