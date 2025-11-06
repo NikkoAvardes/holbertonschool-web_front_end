@@ -351,6 +351,7 @@ h6 {
 
 .footer-address {
 	color: var(--text-color);
+	display: block;
 }
 
 .social-link {
