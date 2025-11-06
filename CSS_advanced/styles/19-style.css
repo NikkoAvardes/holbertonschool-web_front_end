@@ -258,13 +258,6 @@ a:active {
 	margin: var(--section-tagline-margin);
 }
 
-.row::after {
-	content: "";
-	display: table;
-	clear: both;
-
-}
-
 .container {
     width: 960px;
     margin-left: auto;
@@ -298,6 +291,12 @@ a:active {
 
 .nav .nav-link:hover {
     color: var(--nav-item-link-hover);
+}
+
+ul.row::after {
+	content: "";
+	display: table;
+	clear: both;
 }
 
 ul.row {
